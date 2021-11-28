@@ -7,9 +7,9 @@
 
 <div class="container">
 	
-	<h2 class="text-center"> List of Clients <i class="fa fa-users"></i></h2>
+	<h2 class="text-center py-3"> Lista de Clientes <i class="fa fa-users"></i></h2>
 
-	<h5 class="text-right">
+	<h5 class="d-flex justify-content-end">
 		<a href="view/page_register.php" class="btn btn-primary btn-xs">
 			<i class="fa fa-user-plus"></i>
 		</a>
@@ -64,6 +64,6 @@
 	<!-- Fim da Tabela -->
 
 </div>
-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
 </body>
 </html>
